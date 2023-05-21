@@ -8,6 +8,7 @@
 
 body {
   font-family: "Poppins" serif;
+  background-color: red;
 }
 
 .supra,
@@ -118,12 +119,11 @@ body {
   .dodge-img,
   .ford-img,
   .lamborghini-img {
-    height: 30vh;
+    height: 31vh;
   }
 
   .cars-btn {
     gap: 15px;
-    /* margin-bottom: 0; */
   }
 
   .supra-btn,
