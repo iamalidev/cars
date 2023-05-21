@@ -118,12 +118,12 @@ body {
   .dodge-img,
   .ford-img,
   .lamborghini-img {
-    height: 31vh;
+    height: 30vh;
   }
 
   .cars-btn {
     gap: 15px;
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
   }
 
   .supra-btn,
