@@ -118,11 +118,11 @@ body {
   .dodge-img,
   .ford-img,
   .lamborghini-img {
-    height: 30vh;
+    height: 31vh;
   }
 
   .cars-btn {
-    flex-direction: column;
+    gap: 15px;
     margin-bottom: 0;
   }
 
